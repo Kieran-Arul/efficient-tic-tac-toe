@@ -21,7 +21,7 @@
 
 	javac com/kieran/Main.java
 
-5\. Run the command to play the game
+5\. Run the following command to play the game
 
 	java com.kieran.Main
 
